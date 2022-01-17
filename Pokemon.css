@@ -1,0 +1,46 @@
+body {
+    background-color: #fefae0;    
+}
+
+h1 {
+    color: #264653; 
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    margin: 0;
+}
+
+h2 {
+    color: #6b705c;
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 1.0%;
+}
+
+.pokemon {
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.6%;
+    color: #264653;
+    font-size: 1.0rem;
+    font-weight: 500;
+}
+
+.pokemon img{
+    display: block;
+    transition: transform .4s;
+    block-size: 7rem;
+}
+
+img:hover {
+    transform: scale(1.2);
+}
+
+header {
+    border: 5px solid #606c38;
+    border-style: dotted;
+    margin-bottom: 3.0%;
+}
