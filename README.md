@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Canissia
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning The Basics.
-- 💞️ I’m looking to collaborate on any entry level HTML, CSS, and enrolled in CS50.
+- 🌱 I’m currently learning how to Handle Errors in Express Apps.
+- 💞️ I’m looking to collaborate on any entry level HTML, CSS, Javascript projects.
 - 📫 How to reach me ... shoot me a message!
 
 <!---
