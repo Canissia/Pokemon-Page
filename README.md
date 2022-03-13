@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Canissia
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning how to Handle Errors in Express Apps.
-- 💞️ I’m looking to collaborate on any entry level HTML, CSS, Javascript projects.
-- 📫 How to reach me ... shoot me a message!
+Pokemon Sprites
 
-<!---
-Canissia/Canissia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This was one of the first projects I made that uses Javascript!
+Completed in Cold Steele’s Web Developer Bootcamp. This page displays ALL of the current Pokemon. I added my own twist by using hoover to animate each Pokemon.
+
+The goal was to display Pokemon images with Javascript. 
+
+I learned a practical use of ‘For Loop’ by increasing the loop to include all 898 Pokemon. To display each photo with .appendChild and .createElement.
